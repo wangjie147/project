@@ -24,7 +24,7 @@
 
         <dependency>
             <groupId>com.facetofront</groupId>
-            <artifactId>product-common</artifactId>
+            <artifactId>project-common</artifactId>
         </dependency>
     </dependencies>
 
