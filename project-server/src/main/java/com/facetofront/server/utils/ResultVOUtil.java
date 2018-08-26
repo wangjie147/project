@@ -1,6 +1,6 @@
 package com.facetofront.server.utils;
 
-import com.imooc.product.VO.ResultVO;
+import com.facetofront.server.vo.ResultVO;
 
 /**
  * Created by 廖师兄
